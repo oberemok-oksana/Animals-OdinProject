@@ -27,3 +27,8 @@
   list-style-type: none;
   font-size: 18px;
 }
+
+.nav-link {
+  color: #e5e7eb;
+  text-decoration: none;
+}
