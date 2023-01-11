@@ -48,3 +48,15 @@ h1 {
   font-weight: 900;
   color: #f9faf8;
 }
+
+.title-section__img {
+  display: block;
+  width: 400px;
+  height: autos;
+}
+
+.title-section__card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
