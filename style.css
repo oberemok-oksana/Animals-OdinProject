@@ -41,6 +41,7 @@
 
 .title-section {
   background-color: #1f2937;
+  padding-bottom: 50px;
 }
 
 h1 {
@@ -60,6 +61,7 @@ h1 {
   display: flex;
   flex-direction: column;
   max-width: 400px;
+  gap: 15px;
 }
 
 .title-section__wrapper {
@@ -71,4 +73,17 @@ h1 {
 .secondary-text {
   font-size: 18px;
   color: #e5e7eb;
+}
+
+.btn {
+  border-radius: 4px;
+  cursor: pointer;
+  width: fit-content;
+  padding: 8px 20px;
+  background-color: rgb(241, 231, 40);
+  font-weight: 600;
+}
+
+.btn:hover {
+  opacity: 0.8;
 }
