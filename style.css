@@ -97,7 +97,7 @@ h1 {
   display: flex;
   justify-content: space-between;
   gap: 25px;
-  padding: 25px 40px;
+  /* padding: 25px 40px; */
 }
 
 .card {
@@ -113,4 +113,28 @@ h1 {
 .card img:hover {
   transition: all 1s ease-in;
   transform: scale(1.1);
+}
+
+.quote-section {
+  background-color: #e5e7eb;
+  padding: 60px 0 40px 0;
+}
+
+.container-s {
+  width: 750px;
+  margin: 0 auto;
+}
+
+.quote {
+  font-size: 30px;
+  font-style: italic;
+  color: #1f2937;
+}
+
+.quote-author {
+  display: block;
+  text-align: right;
+  font-weight: 900;
+  font-size: 16px;
+  margin-top: 10px;
 }
