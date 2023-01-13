@@ -95,7 +95,7 @@ h1 {
 }
 
 .btn:hover {
-  opacity: 0.8;
+  color: #fff;
 }
 
 .random-info-section {
@@ -164,10 +164,6 @@ h2 {
   justify-content: space-between;
   align-items: center;
   padding: 30px 0;
-}
-
-.subscribe-btn:hover {
-  color: #fff;
 }
 
 .footer {
