@@ -142,3 +142,20 @@ h2 {
   font-size: 16px;
   margin-top: 10px;
 }
+
+.subscription-section {
+  background-color: rgb(241, 231, 40);
+  margin: 50px auto;
+  border-radius: 5px;
+}
+
+.subscription-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 0;
+}
+
+.subscribe-btn:hover {
+  color: #fff;
+}
