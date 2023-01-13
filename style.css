@@ -115,6 +115,10 @@ h1 {
   transform: scale(1.1);
 }
 
+h2 {
+  margin-bottom: 20px;
+}
+
 .quote-section {
   background-color: #e5e7eb;
   padding: 60px 0 40px 0;
